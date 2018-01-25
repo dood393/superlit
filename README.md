@@ -6,3 +6,5 @@ Best Search Engine <a href="https://duckduckgo.com"> DuckDuckGo </a> <br>
 
 
 <a href="https://docs.google.com/spreadsheets/d/12N3SFqR7Kz-K6Oy4cbe5Yw72zHGYLXbqDivk2s7LL30/edit?usp=sharing"> The Scoreboard of Evil Deeds </a> <br>
+
+<a href="https://groups.google.com/a/wrdsb.ca/d/forum/l4y5-p00t4t00-ch195"> A web forum for potatoes. Probably </a> <br>
