@@ -1,7 +1,9 @@
 ---
 title: Potato Home Page
 ---
-
+<head>
+  <meta name="msvalidate.01" content="6B2D515E28F4463E5D860A241828B35B" />
+</head>  
 
 Just go to <a href="https://dood393.github.io/superlit/main.html"> Super Awesome Website Of Websiteness </a> <br> 
 
